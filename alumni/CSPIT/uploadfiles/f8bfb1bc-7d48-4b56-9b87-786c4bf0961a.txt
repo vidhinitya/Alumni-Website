@@ -1,0 +1,28 @@
+Rahul
+8141150999
+9328996435
+
+
+U.name: gujaratg
+P.word: gautam1234@
+
+
+http://gujaratgatha.co.in/
+
+Process of default page (index.aspx or whatever) 
+
+
+
+Go at main page of dontNet panel
+
+Put cursor on "Web" folder (2nd icon from left), then click on "website"
+
+Click on domain name
+
+On 1st tab (Home Folder), there is a box of Default Documents:
+
+Type your desire home page's name, and delete other page's name
+
+Then click on update
+
+Done
